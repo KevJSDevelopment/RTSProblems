@@ -1,3 +1,3 @@
 # #3 If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
 
-Compared to other languages/ frameworks, the Ruby on Rails documentation is not always as clear as I would like. So if I could change one thing it would be to provide better examples in the documentation.
+Compared to other languages/ frameworks, the Ruby on Rails documentation is not always as detailed as I would like. While learning and working with Rails, I have found that the documentation occasionally provides only one or two examples on the topic I am researching. These examples can also sometimes be unclear and not well explained. So if I could change one thing it would be to provide better as well as more examples in the documentation.
